@@ -1,0 +1,19 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "javascript automated testing using jest",
+  "main": "index.test.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "testing",
+    "javascript",
+    "jest"
+  ],
+  "author": "isa kulaksiz",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
